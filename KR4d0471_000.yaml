@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR4d0471/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部五
+  hash: sha256:91d391b03400458fe4b5406ed6606e69862a8e4f767c40fe8478f37cc3ae4e00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0471_WYG_000-1a, image: WYG1202/WYG1202-0693a.png}
+body:
+  text: 玉井樵唱别集類四元提要臣等謹案玉井樵唱三卷元尹廷髙撰廷髙字仲明别號六峯遂昌人卷首有廷髙自記載其父竹坡詩一聨蓋即戴復古石屏集以其父遺詩冠首之意竹坡名棟宋寶祐間嘗為紹興府幕官見此君亭詩話而廷髙行履不槩見惟遂昌縣志稱其大德間任處州路儒學教授而顧嗣立元詩選小傳又謂其嘗掌教永嘉秩滿至京謝病歸與志不合永嘉官師志亦無其名今案集中有永嘉書所見一首云此邦幸小稔竊祿似有緣又有永嘉秩滿代者未至詩又有告病致仕謝李尚書詩則廷髙仕甌及謝病實非無據疑郡縣志失考也其詩氣格不甚超拔而神思清雋尚能不染俗氛晚年與虞集友善為題其邵陶二菴亦可見其氣類之相合矣乾隆四十二年七月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀玉井樵唱自記先君號竹坡登癸丑奉常第宦遊湖海作詩凡千餘首丙子家燬于冦遺編散落無一存者僅憶秋日寄僧一聯白蘋影蘸無痕水黃菊香催未了詩存止此耳先業無傳雅道幾廢不肖孤之過也廷髙拜書于卷首
+  hash: sha256:dcb1a6015a1a53a6a16522b3d570ec101118c9cff9d3fe2a64d857b58d640c4c
+  markers:
+  - {type: page-break, offset: 293, content: '', id: KR4d0471_WYG_000-3a, image: WYG1202/WYG1202-0694c.png}
+metadata:
+  title: 玉井樵唱
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:10:58.858848'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0471/KR4d0471_000.txt
+hash: sha256:0b64371c2fbca0cb6f359ae02c9723fbcd86003f5c26b60dd6562eb0c94684d2
